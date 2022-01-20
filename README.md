@@ -40,7 +40,6 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 ### **UNIVERSITY OF WARWICK**
 ### Masters in Management (2021- 2022)
 
-<br>
 ### ** ANNA UNIVERSITY**
 ### BTech Information Technology (2014- 2018)
 GPA 7.3
