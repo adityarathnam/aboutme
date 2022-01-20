@@ -41,7 +41,7 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 ### Masters in Management (2021- 2022)
 Pursuing
 
-### ** ANNA UNIVERSITY**
+### **ANNA UNIVERSITY**
 ### BTech Information Technology (2014- 2018)
 GPA 7.3
 
