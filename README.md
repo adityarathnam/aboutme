@@ -21,7 +21,7 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 ### **SENIOR FRONTEND DEVELOPER**
 ### MIRO
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides.
 
 ### **FRONTEND DEVELOPER**
 ### Booking.com
