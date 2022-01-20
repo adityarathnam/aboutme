@@ -37,9 +37,13 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **UNIVERSITY OF WARWICK**
+### Masters in Management (2021- 2022)
+
+<br>
+### ** ANNA UNIVERSITY**
+### BTech Information Technology (2014- 2018)
+GPA 7.3
 
 ---
 
